@@ -3,4 +3,4 @@ let doble = numero * 2;
 
 console.log("El doble del número es: " + doble);
 
-//AHORA VAMOS CON EL EJERCICIO NUMERO 2
+// ESTE ES MI EJERCICIO NUMERO 1 VERO IZQUIERDO2//
